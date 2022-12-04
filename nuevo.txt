@@ -1,0 +1,2 @@
+Este archivo de ejemplo es usado para probar el comando "cat > archivo.txt" con el cual creas un nuevo archivo con la extension que necesites y puedes escribir directamente en él lites, luego debes presionar ctrl + d para guardar y regresa a ka a la terminal, eso fue todo. 
+
